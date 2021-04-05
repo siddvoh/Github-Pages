@@ -1,4 +1,4 @@
-##Siddharth Vohra
+## Siddharth Vohra
 ***Software & Data Engineer***
 > I love working with Data and Programming languages
 [Here is my picture](B6F18ACA-9A71-4BCD-A4D5-CDEAA24F5A48_1_201_a.jpeg)
@@ -11,7 +11,7 @@ import pandas as pf
 
 I am also fairly active on [Twitter](https://www.twitter.com/siddvoh)
 
-###My Favorites
+### My Favorites
 
 My favorite restaurants on campus are:
 1. The Bistro
