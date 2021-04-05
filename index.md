@@ -5,7 +5,7 @@
 
 #### [Here is a meme](meme.jpg)
 
-I am also fairly active on [Twitter](https://www.twitter.com/siddvoh)
+I'll be working a SWE Intern at Teradata this summer. Previously, I was working at Hitachi India as an ML Intern. I am also fairly active on [Twitter](https://www.twitter.com/siddvoh). In my free time, I like to learn about  general finance and investing in the stock market.
 
 I'm gonna tell you about myself and my favorite [lines of code](#lines-of-code), [Restaurants on UCSD Campus](#restaurants-on-ucsd-campus), [Music Artists](#music-artists), and [Cuisines](#cuisines-and-dishes) 
 
