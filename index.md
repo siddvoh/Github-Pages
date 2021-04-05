@@ -5,28 +5,30 @@
 
 #### [Here is a meme](meme.jpg)
 
-2 of my favorite code lines are:
+I am also fairly active on [Twitter](https://www.twitter.com/siddvoh)
+
+I'm gonna tell you about myself and my favorite [lines of code](#lines-of-code), [Restaurants on UCSD Campus](#restaurants-on-ucsd-campus), [Music Artists](#music-artists), and [Cuisines](#cuisines-and-dishes) 
+
+### My Favorites
+
+#### Lines of Code:
 ```
 import numpy as np
 import pandas as pd
 ```
 
-I am also fairly active on [Twitter](https://www.twitter.com/siddvoh)
-
-### My Favorites
-
-My favorite restaurants on campus are:
+#### Restaurants on UCSD Campus:
 1. The Bistro
 2. Goody's (RIP)
 3. Oceanview Terrace
 4. 64
 
-My favorite music artists are:
+#### Music Artists:
 * 1975
 * Lauv
 * LANY
   
-My favorite cuisines and foods are are:
+#### Cuisines and Dishes:
 1. Indian
    - Butter Chicken
    - Biryani
