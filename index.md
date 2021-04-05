@@ -3,7 +3,7 @@
 ***Software & Data Engineer***
 > I love working with Data and Programming languages
 
-####[Here is my picture](B6F18ACA-9A71-4BCD-A4D5-CDEAA24F5A48_1_201_a.jpeg)
+####[Here is a funny picture](B6F18ACA-9A71-4BCD-A4D5-CDEAA24F5A48_1_201_a.jpeg)
 
 2 of my favorite code lines are:
 ```
